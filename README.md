@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 👨‍💻 All of my projects are available at [[portfolio link](portfolio link)](https://yassinchamlal.netlify.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
