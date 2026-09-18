@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Third-year **Software Engineering** student (HBO) at Hogeschool Leiden
+- 🎓 fourth-year **Software Engineering** student (HBO) at Hogeschool Leiden
 - 🌍 Based in Leiden, the Netherlands
 - 🤖 I like building full-stack apps, working with AI/LLMs, and shipping my own products
 - 💼 Recently interned at **Provincie Noord-Holland**, building *DAAN* — an internal AI assistant (Next.js, TypeScript, Azure OpenAI)
@@ -43,14 +43,9 @@
 
 ### 📫 Get in touch
 
-- 💼 LinkedIn: **[jouw-naam](https://linkedin.com/in/JOUW-PROFIEL)**
-- 🌐 Portfolio: **[jouw-portfolio.nl](https://JOUW-PORTFOLIO-URL)**
-- 📧 Email: **jouw@email.nl**
-
+- 💼 LinkedIn: **https://www.linkedin.com/in/yassinc/**
+- 🌐 Portfolio: **https://yassinc.nl/**
 ---
-
-<!-- Optioneel: live GitHub-statistieken. Werkt automatisch zodra dit in je profiel-repo staat.
-     Dit gebruikt een externe service (github-readme-stats). Weglaten mag prima. -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassi22&show_icons=true&hide_border=true" alt="GitHub stats" />
