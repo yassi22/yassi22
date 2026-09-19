@@ -37,9 +37,9 @@
 
 | Project | Description |
 | --- | --- |
-| **[Project 1](https://github.com/yassi22/REPO-NAAM)** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
-| **[Project 2](https://github.com/yassi22/REPO-NAAM)** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
-| **[Project 3](https://github.com/yassi22/REPO-NAAM)** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
+| **https://github.com/yassi22/meridian-intelligence** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
+| **https://github.com/yassi22/ScanPal** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
+| **https://github.com/yassi22/vermeer-automotive** | Korte, concrete beschrijving: wat het doet + belangrijkste tech. |
 
 ### 📫 Get in touch
 
