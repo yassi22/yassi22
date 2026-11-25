@@ -35,7 +35,7 @@
 
 <!-- Vervang de placeholders door je 3 sterkste projecten + de echte repo-links. -->
 
-| Project | Description |
+| Project |
 | --- | --- |
 | **https://github.com/yassi22/meridian-intelligence**
 | **https://github.com/yassi22/ScanPal** 
